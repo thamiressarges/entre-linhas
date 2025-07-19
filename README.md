@@ -17,8 +17,6 @@ Este é um projeto simples desenvolvido com **Flutter**, que gera frases motivac
 
 ## 📱 Capturas de Tela
 
-> Adicione as imagens da aplicação aqui:
-
 ![Tela Inicial](./images/visualize_a_experiencia_entre_linhas.png)
 
 ---
