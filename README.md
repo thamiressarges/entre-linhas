@@ -1,16 +1,41 @@
-# entre_linhas
+# 🌟 Entre Linhas
 
-A new Flutter project.
+![Tela Inicial](./images/entre_linhas_banner.png)
 
-## Getting Started
+Este é um projeto simples desenvolvido com **Flutter**, que gera frases motivacionais aleatórias para inspirar o seu dia.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Geração de frases motivacionais aleatórias  
+- Interface minimalista e responsiva  
+- Botão interativo para gerar nova frase  
+- Frases destacadas com tipografia personalizada
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Capturas de Tela
+
+> Adicione as imagens da aplicação aqui:
+
+![Tela Inicial](./images/visualize_a_experiencia_entre_linhas.png)
+
+---
+
+## 🧩 Template de Apresentação
+
+O modelo de apresentação visual foi baseado no template gratuito **Creta**, disponível em:
+
+🔗 [Creta - Slidecore Templates](https://slidecoretemplates.com/pt-pt/producto/creta-modelo-de-apresentacao-de-aplicativo-gratuito/#google_vignette)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- Material Design
+- Random (para sorteio das frases)
+
+
